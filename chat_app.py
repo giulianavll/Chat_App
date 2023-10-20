@@ -55,7 +55,7 @@ if option== "HuggingFace":
     API_URL =  "https://api-inference.huggingface.co/models/google/vit-base-patch16-224"
     headers = {"Authorization": f"Bearer {API_KEY}"}
     API_URL = "https://api-inference.huggingface.co/models/HuggingFaceH4/zephyr-7b-alpha"
-    headers = {"Authorization": "Bearer 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"}
+    headers = {"Authorization": "Bearer"}
 
 
     
